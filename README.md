@@ -13,6 +13,7 @@ Table of Contents: Learn Solidity from Beginner to Pro
 1.4 Setting up the Development Environment (VS Code, Node.js, Truffle/Hardhat)
 
 2. Basic Solidity Concepts
+   
 2.1 Introduction to Ethereum Virtual Machine (EVM)
 
 2.2 Structure of a Smart Contract
