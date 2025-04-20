@@ -8,4 +8,11 @@ contract myContract{
     string name = "PAUL"; // stored text note string used more gas than numbers;
     address myAddress = 0xa7b1A73848c0574afa133c00df28e0A0f0507B68; // Used to store an Ethereum wallet or contract address
     bytes32 favNumber = "69";
+
+    /*NOTES 
+        There are many bytes in uint, the highest is 256, the same as int
+        also uint256 == uint and int == int256
+        the default value of uint and int is 256
+        but in the bytes are deffirent
+*/
 }
